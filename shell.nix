@@ -7,5 +7,6 @@ pkgs.mkShell {
 	pkgs.xorriso
 	pkgs.grub2
 	pkgs.coreboot-toolchain.x64
+	pkgs.bear
   ];
 }

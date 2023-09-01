@@ -1,4 +1,6 @@
 dist/*
 build/*
+.cashe/*
 
 kernel.bin
+compile_commands.json
